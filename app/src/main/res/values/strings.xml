@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Users Github</string>
+    <string name="hint_search">Cari User Github...</string>
+    <string name="username_detail">Username</string>
+    <string name="user_alias_detail">User Alias</string>
+    <string name="_22_following_detail">22 Following</string>
+    <string name="_34_followers_detail">34 Followers</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!--    askjdfhhjkasdf-->
+    <string name="tab_text_1">Following</string>
+    <string name="tab_text_2">Followers</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
